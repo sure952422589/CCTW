@@ -47,18 +47,18 @@ Wallet address is 14sQYjj3n2fReJyVNoqHCmCFjNKEZAVcEB
 ```bash
 python3 cli.py printwallet
 Wallet are:
-	19zR4zT9eSFsbSNvnQ1RCrhjN71VzPFTnH
-	1MVUrxPuRgtkyLQvAoma4yEarzcMzvQqym
-	18kruspe7jAbggR1sUF8fCFsZLn6efSeFk
-	14sQYjj3n2fReJyVNoqHCmCFjNKEZAVcEB
+	CCYWY4NTViMTE0ODE3YmJkN2U4MjU0YmVlNDM1NDU
+	CCZDVhMzNjYTgzNDg3MzIwMWY2YTdlOWRiODQyZGQ
+	CCN2ExNDIwOGI5MmNjODkwYWQyNGNhOGJkZDljOGI
+	CCNzkzY2FmMWU2NzRhMDdmNDIyMzMwNzg0OWFjOWI
 ```
 
 ```bash
-$python3 cli.py send --from 1LYHea8NjTxaYboXJbR7LemvUZjyQc839r --to 19zR4zT9eSFsbSNvnQ1RCrhjN71VzPFTnH --amount 100
-$python3 cli.py send --from 1LYHea8NjTxaYboXJbR7LemvUZjyQc839r --to 19zR4zT9eSFsbSNvnQ1RCrhjN71VzPFTnH --amount 100
+$python3 cli.py send --from CCYWY4NTViMTE0ODE3YmJkN2U4MjU0YmVlNDM1NDU --to CCN2ExNDIwOGI5MmNjODkwYWQyNGNhOGJkZDljOGI --amount 100
+$python3 cli.py send --from CCNzkzY2FmMWU2NzRhMDdmNDIyMzMwNzg0OWFjOWI --to CCMDY3MmRlM2ExNGZjYzFmYWUxZTNhYzJhOGE1MTI --amount 100
 ```
 
 ```bash
-python3 cli.py balance 1LYHea8NjTxaYboXJbR7LemvUZjyQc839r
-1LYHea8NjTxaYboXJbR7LemvUZjyQc839r balance is 1900
+python3 cli.py balance CCYWY4NTViMTE0ODE3YmJkN2U4MjU0YmVlNDM1NDU
+CCZDkyM2NhODM5OWRlNmI5MTNkNDhhZDdmMWNiNzk balance is 1900
 ```
