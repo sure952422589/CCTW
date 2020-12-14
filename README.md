@@ -31,17 +31,17 @@ $python3 cli.py start
 
 ```bash
 $python3 cli.py genesis_block
-Genesis Wallet is: 1LYHea8NjTxaYboXJbR7LemvUZjyQc839r
+Genesis Wallet is: CCZWEzMzIzZjNlNmJhNzlhOTBhMWNiMzdlNDU2N2M
 ```
 
 ```bash
-$python3 cli.py balance 1LYHea8NjTxaYboXJbR7LemvUZjyQc839r
-1LYHea8NjTxaYboXJbR7LemvUZjyQc839r balance is 1000
+$python3 cli.py balance CCZWEzMzIzZjNlNmJhNzlhOTBhMWNiMzdlNDU2N2M
+CCZWEzMzIzZjNlNmJhNzlhOTBhMWNiMzdlNDU2N2M balance is 1000
 ```
 
 ```bash
 $python3 cli.py createwallet
-Wallet address is 14sQYjj3n2fReJyVNoqHCmCFjNKEZAVcEB
+Wallet address is CCYTI2NzIxZDgzZTg1NGE2MDI0ZGQwYWMxZDVmMjZ
 ```
 
 ```bash
