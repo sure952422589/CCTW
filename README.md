@@ -1,15 +1,8 @@
-## CCTW
+## CCTW介绍
+CCTW总发行量8亿枚，质押挖矿销毁6亿枚，企业链改销毁1.2亿枚，剩余8000枚作为市场流通量，销毁率90%。
 
-## 目录
-* [基本原型](./docs/basic_type.md)
-* [工作量证明](./docs/pow.md)
-* [持久化和命令行接口](./docs/persistence-and-cli.md)
-* [交易（1）](./docs/transaction.md)
-* [地址](./docs/address.md)
-* [交易（2）](./docs/transactions-2.md)
-* [网络](./docs/network.md)
 
-## 依赖
+## 安装节点说明
 1. 安装python依赖
 `pip install -r requestments.txt`
 2. 安装couchdb(每个节点都要安装)
