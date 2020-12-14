@@ -19,7 +19,6 @@ services:
     - 5984:5984
 ```
 执行`docker-compose -f couchdb.yaml up -d`即可安装。
-使用http://ip:5984/_utils即可访问couchdb的后台管理系统。
 
 
 ```bash
